@@ -1,2 +1,2 @@
 # my.present
-My Presentatiob site
+My Presentation site
